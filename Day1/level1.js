@@ -29,8 +29,3 @@ let string1 ='30 Days Of ';
 let string2 ='Javascript';
 console.log(string1.concat(string2));
 console.log(challenge.repeat(2));
-
-
-
-
-
